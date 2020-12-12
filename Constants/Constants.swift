@@ -6,4 +6,7 @@
 //  Copyright © 2020 Ahmed Shoman. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+let SCREENWIDTH = UIScreen.main.bounds.width
+let SCREENHEIGHT = UIScreen.main.bounds.height
